@@ -1,0 +1,4 @@
+Considere uma árvore binária que representa uma expressão matemática, onde cada nó é um operador
+ou um número. Veja a árvore abaixo e responda as questões abaixo:
+
+a) O caminho a seguir é In Ordem para ambas expressão.

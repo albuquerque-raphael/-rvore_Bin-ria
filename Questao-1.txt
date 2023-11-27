@@ -1,0 +1,10 @@
+Diante da seguinte estrutura de árvore abaixo, responda as questões:
+
+a) Existem 4 nós nessa ávore binária
+b) A altura vai da raiz 'H' até suas folhas 'L', 'M' e 'N'
+c) 'H' é o nó da Raiz 
+d) Os nós da folha são: 'B', 'F' e 'E'
+e) 'B' e 'F' são nós interiores
+f) O nó 'E' está n nível 2
+g) O nó 'F' é antepassado do nó 'E'
+h) Apenas o nó 'E' é descendente 

@@ -1,0 +1,5 @@
+2. Diante da seguinte estrutura de árvore binária abaixo, responda as questões:
+
+a) Pré Ordem: 'D', 'B' e 'F'; 'B', 'A', 'C'; 'F', 'E' e 'G'
+b) Pós Ordem: 'B', 'F', 'D'; 'A', 'C', 'B'; 'E', 'G' e 'F'
+c) In Ordem: 'B', 'D', 'F'; 'A', 'B', 'C'; 'E', 'F', 'G'

@@ -1,0 +1,12 @@
+Acesse o link
+disponível no Classroom da disciplina e compare a eficiência dos algoritmos de ordenação Bubble
+Sort, Selection Sort e Quick Sort para as seguintes quantidades de elementos, apresente numa tabela o
+tempo para cada registro:
+
+a)Para 1000 -> buble sort 0.09735488891601562; Select Sort 0.04308605194091797
+quick sort 0.0017528533935546875
+
+b)Para 10.000 -> Buble sort 12.405356407165527; select sort 4.30452036857605
+quick sort 0.02189183235168457
+
+c)Para 100.000 -> Tempo estimado acima de 12 minutos para todas as ordenações
